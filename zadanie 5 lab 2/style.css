@@ -1,0 +1,19 @@
+/* style.css */
+body{
+background-color:green;
+color:black;
+}
+h1{
+text-align: center;
+}
+h2{
+text-align: center;
+}
+.main {
+  border: 10px outset black;
+  background-color: lightgreen;
+  text-align: center;
+}
+p{
+text-align: center;
+}
