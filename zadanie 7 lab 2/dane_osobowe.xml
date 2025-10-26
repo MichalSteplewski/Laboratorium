@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osoba id="1">
+  <imie>Michal</imie>
+  <nazwisko>Steplewski</nazwisko>
+  <plec>meżczyzna</plec>
+  <wiek>21</wiek>
+</osoba>
